@@ -9,4 +9,4 @@ You don't need to download the data.
 
 Just open the notebook in your colab, and click run_all. It will download the datasets and get you the plots automatically. 
 
-Tip: Use the 2.8 TPE from Colab. The ram is not enough to run the notebook on other processors
+Tip: Use the 2.8 TPU from Colab. The ram is not enough to run the notebook on other processors
